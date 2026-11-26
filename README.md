@@ -1,7 +1,6 @@
 # Trip Cost Planner (A2A)
 
-A small multi-agent demo built on the same pattern as city-explorer-agent: a front-end
-(chatbot / CLI) that calls specialist agents over the A2A (Agent2Agent) protocol.
+A small multi-agent demo, a front-end (chatbot / CLI) that calls specialist agents over the A2A (Agent2Agent) protocol.
 Data is mocked (Pakistani routes, prices in PKR) and there is no LLM, so it needs no keys.
 
 ![Trip Planner Chat](docs/chatbot.png)
